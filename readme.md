@@ -1,6 +1,7 @@
 ## AT THE BEGINNING
 This seemed-nonsense work was distributed for the ANN class in Tsinghua University. 
-This work got an A- final score with 0.5 plus in other works.
+
+This work got an A- final score with a 0.5 plus in other works.
 
 
 ## The Performance of Expression Evaluation on Transformer
