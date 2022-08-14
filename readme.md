@@ -1,7 +1,7 @@
-## AT THE BEGINNING
-This seemed-nonsense work was distributed for the ANN class in Tsinghua University. 
+## At the beginning
+This work was distributed for the ANN class in Tsinghua University. 
 
-This work got an A- final score with a 0.5 plus in other works.
+This work got an A- final score with a 0.5 plus in other work.
 
 
 ## The Performance of Expression Evaluation on Transformer
@@ -48,7 +48,7 @@ You may train this model on a CPU by **deleting all the  `.cuda()` .**
 
 ## Parameters
 
-You may use these parameters below to obtain bettert performance when **you train your own models**：
+You may use these parameters below to obtain better performance when **you train your own models**：
 
 | Data        | num_layers | epoch | batch_size |
 |:-----------:|:----------:|:-----:|:----------:|
