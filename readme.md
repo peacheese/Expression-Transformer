@@ -1,9 +1,3 @@
-## At the beginning
-This work was distributed for the ANN class in Tsinghua University. 
-
-This work got an A- final score with a 0.5 plus in other work.
-
-
 ## The Performance of Expression Evaluation on Transformer
 
 Expression evaluation is a kind of reasoning problem, which contains many different specific tasks. We design a new data set, which contains some different examples of expression evaluation tasks, and the model needs to learn to respond to the task through each example of the task.
